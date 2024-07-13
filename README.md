@@ -24,7 +24,7 @@ My design system includes a wide range of components that can be used to create 
 
 - **Buttons:** A range of buttons in different sizes, styles, and colors. :pushpin:
 
-- **Typography:** A selection of fonts, sizes, and weights for use in headlines, body text, and other UI elements. :pencil:
+- **Typography:** A selection of font, sizes, and weights for use in headlines, body text, and other UI elements. :pencil:
 
 - **Icons:** A set of icons in different styles and sizes. :art:
 
