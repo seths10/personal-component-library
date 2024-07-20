@@ -4,7 +4,7 @@ Welcome to my personal design system! :wave: This repository contains all the gu
 
 ## Getting Started :rocket:
 
-To get started with my design system, simply clone this repository to your local machine and open the `index.html` file in your web browser. This file serves as the entry point to the design system and provides an overview of all the available components and guidelines.
+To get started using my design system, simply clone this repository to your local machine and open the `index.html` file in your web browser. This file serves as the entry point to the design system and provides an overview of all the available components and guidelines.
 
 ## Design Principles :bulb:
 
